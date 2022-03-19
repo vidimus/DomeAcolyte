@@ -10,3 +10,5 @@ The Lost Chronicles: Scenarios created by DomeAcolyte for his twitch channel (ht
 04 - The Coven of Antoine Manor - A game of deductive reasoning, in which you're kidnapped by a witch, and must identify your foe, amongst fellow captives.
 
 05 - The Curse of the Blind Stalker - The Silver Twilight Lodge out for your blood, setting on you, an ancient, unkillable entity, that you can only outrun for so long...
+
+06 - A Matter of Blood - Investigate a creepy mansion, whose residents haven't been seen for some time.
