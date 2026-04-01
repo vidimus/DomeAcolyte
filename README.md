@@ -14,3 +14,11 @@ The Lost Chronicles: Scenarios created by DomeAcolyte for his twitch channel (ht
 06 - A Matter of Blood - Investigate a creepy mansion, whose residents haven't been seen for some time.
 
 07 - The Innsmouth Trial - After being captured by the Innsmouth Mob, a band of outsiders is taken to face trial.
+
+08 - Countdown to Devastation - The agents of the Ministry of Occultism race to find a bomb, planted by the Cult of Azathoth.
+
+09 - Escape from Cthulhu's Mansion - While pursuing the Cult of Cthulhu, you find yourself imprisoned.
+
+10 - The Telltale Curse - The Cult of Cthulhu roam the streets and your choices will determine if you stop them or die trying.
+
+11 - The Four Day Broadcast - A dinner party takes a sinister turn, when eyeless monsters surround the house, trapping you inside.
